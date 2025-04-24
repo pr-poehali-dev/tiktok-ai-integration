@@ -1,4 +1,5 @@
 import { VideoPost } from "@/lib/types";
+import { Music } from "lucide-react";
 
 interface VideoInfoProps {
   video: VideoPost;
